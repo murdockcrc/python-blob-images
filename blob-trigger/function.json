@@ -5,15 +5,13 @@
       "name": "myblob",
       "type": "blobTrigger",
       "direction": "in",
-      "path": "upload-images/{name}",
-      "connection": "MyStorageConnectionString"
+      "path": "upload-images/{name}"
     },
     {
       "name": "outputblob",
       "type": "blob",
       "direction": "out",
-      "path": "output-images/{name}",
-      "connection": "MyStorageConnectionString"
+      "path": "output-images/{name}"
     }
   ]
 }
