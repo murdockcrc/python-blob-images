@@ -1,4 +1,4 @@
 azure-common==1.1.20
 azure-functions==1.0.0b4
 azure-functions-worker==1.0.0b6
-opencv-python==3.4.5.20
+opencv-python==4.2.0.32
